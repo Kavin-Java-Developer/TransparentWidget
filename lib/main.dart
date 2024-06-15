@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
               ),
               Container(
                 decoration: BoxDecoration(
-                    color: Colors.grey.withOpacity(0.5),
+                    color: Colors.grey.withOpacity(0.6),
                     borderRadius: BorderRadius.circular(20)),
                 padding: EdgeInsets.all(15),
                 margin: EdgeInsets.all(20),
